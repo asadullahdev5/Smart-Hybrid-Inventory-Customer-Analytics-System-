@@ -84,6 +84,8 @@ mvn clean install
 
 *Dynamic inventory grid loaded directly from MongoDB collections.*
 
-```markdown
+### Login Screen & Architecture
 ![Login Screen](login.png)
+
+### Inventory Dashboard
 ![Dashboard Screen](dashboard.png)
